@@ -2,11 +2,15 @@
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
-Body/Main content
-
-_ending question / what do you do?_
+Today is the day you have waited 18 years for; you get to make the biggest decision of your life!
 
 ---
-[Choice 1](./relative_path.md), [Choice 2](./relative_path/file.md), etc.
+_Choose your occupation:_
 
-[^chapter]: Chapter/Path name
+[Join adventurers guild](./adventurer/.md)
+
+[Become apothecary](./apothecary/file.md)
+
+[Become a farmer like your father is now](./farmer/file.md)
+
+[^chapter]: Fresh beginnings
