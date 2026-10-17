@@ -8,7 +8,7 @@ This isn't right; they must be a doppelgänger. It must be _something_ but it ca
 
 ---
 
-[Fight](./search1-fight.md)
+[Fight 'yourself'](./search1-fight.md)
 
 [Run](./search2-run.md)
 
