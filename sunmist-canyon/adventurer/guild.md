@@ -7,8 +7,8 @@ You go to the adventurers guild to start on making coin, they give you your firs
 ---
 _Accept contract?_
 
-[Yes](./slime.md)
+[Yes](./guild1-slime/_slime.md)
 
-[No](./new-quest.md)
+[No](./guild2-wait.md)
 
-[^chapter]: Chapter/Path name
+[^chapter]: First contract opportunity

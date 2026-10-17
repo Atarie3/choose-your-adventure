@@ -1,0 +1,5 @@
+Proper transition/choices for slime2-return
+
+Continue river1-search
+
+Continue guild2-short
