@@ -7,10 +7,10 @@ Today is the day you have waited 18 years for; you get to make the biggest decis
 ---
 _Choose your occupation:_
 
-[Join adventurers guild](./adventurer/.md)
+[Join adventurers guild](./adventurer/guild.md)
 
-[Become apothecary](./apothecary/file.md)
+[Become apothecary](./apothecary/apprentice.md)
 
-[Become a farmer like your father is now](./farmer/file.md)
+[Become a farmer like your father is now](./farmer/cows.md)
 
 [^chapter]: Fresh beginnings
