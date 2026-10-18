@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^Chapter] #
+# Sun-mist Canyon [^chapter] #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -6,4 +6,6 @@ You tell your father about the cattle, and he gets a haunted look in his eyes. H
 
 ---
 
-### ENDING - Father knows best?
+### ENDING - Father knows best? ###
+
+[Return to beginning](../../_start-here.md)
