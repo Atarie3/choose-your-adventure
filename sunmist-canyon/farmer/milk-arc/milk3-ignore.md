@@ -1,4 +1,4 @@
-# Sun-mist Canyon  #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -7,4 +7,5 @@ You ignored the cows going missing; perhaps they went out to the pasture. Moving
 ---
 
 [Investigate further](./ignore1-further.md)
+
 [Tell your father](./milk2-father.md)

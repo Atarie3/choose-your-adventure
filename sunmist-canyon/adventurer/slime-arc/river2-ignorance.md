@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^chapter] #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -7,4 +7,3 @@ You don't make a sound, after you hear the singing. Quickly you get out of the w
 ---
 
 [Find another quest](../guild2-short.md)
-
