@@ -9,9 +9,5 @@ This is unprecedented, how can cows just disappear without leaving any traces of
 ---
 
 [Go tell your father](./milk2-father.md)
-<<<<<<< HEAD
 
 [ignore it](./milk3-ignore.md)
-=======
-[ignore it](./milk3-ignore.md)
->>>>>>> 6faa20b2671b65ba851fef892560098fbf6f7f1f
