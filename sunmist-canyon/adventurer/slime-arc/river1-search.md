@@ -12,4 +12,3 @@ This isn't right; they must be a doppelgänger. It must be _something_ but it ca
 
 [Run](./search2-run.md)
 
-[^chapter]: Chapter/Path name

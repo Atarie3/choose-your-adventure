@@ -5,10 +5,11 @@
 You wait even longer at the adventurers guild, not taking any of the contracts that arrived, you want glory, you want to make waves with your first contract! The next morning the very contract you wanted arrives, there are rumors of frost golems roaming the mountain passes! The contract pays a whole 50 gold!
 
 ---
+
 _Accept contract?_
 
 [Yes](./long1-golem/_golem.md)
 
 [No](./short2-long.md)
 
-[^chapter]: Chapter/Path name
+

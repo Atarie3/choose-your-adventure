@@ -8,10 +8,10 @@ It is dark at the mouth of the cave, far too dark for only being a few feet in, 
 
 In the end, you were celebrated as a hero within your town and went on to adventure far and wide. Even the dragons learned of your name.  Riches and good fortune followed in your footsteps for years to come before you retired to a castle in the mountains overlooking the town you grew up in.
 
-### Ending - A Hero and a Legend ###
-
 ---
+
+### Ending - A Hero and a Legend ###
 
 [Return to beginning](../../_start-here.md)
 
-[^chapter]: Ending - A Hero and a Legend
+

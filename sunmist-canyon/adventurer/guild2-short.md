@@ -12,4 +12,4 @@ _Accept contract?_
 
 [No](./short2-long.md)
 
-[^chapter]: Chapter/Path name
+

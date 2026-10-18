@@ -10,4 +10,4 @@ You turn to run but the water is slowing you down, the mud at the bottom of the 
 
 [Return to beginning](../../_start-here.md)
 
-[^chapter]: Ending - Only room for one
+

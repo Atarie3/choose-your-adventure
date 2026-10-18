@@ -8,4 +8,3 @@ You don't make a sound, after you hear the singing. Quickly you get out of the w
 
 [Find another quest](../guild2-short.md)
 
-[^chapter]: Chapter/Path name

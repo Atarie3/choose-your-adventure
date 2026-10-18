@@ -12,4 +12,4 @@ Its memories flood your head, driving you mad with the realization and grief of 
 
 [Return to beginning](../../_start-here.md)
 
-[^chapter]: Ending - Remorse with no recourse
+

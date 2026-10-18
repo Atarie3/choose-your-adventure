@@ -10,4 +10,4 @@ You arrive at the farm and spot the slimes, while slaying the slimes you get COV
 
 [Return to adventurers guild for your reward](./slime2-return.md)
 
-[^chapter]: Chapter/Path name
+

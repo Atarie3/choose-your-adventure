@@ -10,4 +10,3 @@ You head to the river East of the town; you splash into the river without even t
 
 [Mind your business](./river2-ignorance.md)
 
-[^chapter]: Chapter/Path name

@@ -6,8 +6,8 @@ You return covered head to toe in muck from the slimes, They pay you your 5 gold
 
 ---
 
-[Choice 1](./relative_path.md)
+[Accept contract 2](../bear-arc/_bear.md)
 
-[Choice 2](./relative_path/file.md)
+[Wait longer](../golem-arc/_golem.md)
 
-[^chapter]: Chapter/Path name
+
