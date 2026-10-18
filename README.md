@@ -9,6 +9,10 @@ This framework allows you to create interactive adventures using Markdown files.
 
 ---
 
+## 🌚 Our story
+
+[Sun-mist Canyon](https://github.com/Atarie3/choose-your-adventure/blob/master/sunmist-canyon/_start-here.md) — A fantasy story!
+
 ## 🌟 Example Story
 
 [Space Battles](https://github.com/Atarie3/choose-your-adventure/blob/master/space-battles/_start-here.md) — A Star Wars-inspired branching adventure.
