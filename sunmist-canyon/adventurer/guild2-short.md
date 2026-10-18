@@ -8,6 +8,6 @@ You wait in the adventurers guild for a new contract to arrive, and it does! A b
 
 _Accept contract?_
 
-[Yes](./short1-bear/_bear.md)
+[Yes](./bear-arc/_bear.md)
 
 [No](./short2-long.md)

@@ -8,6 +8,6 @@ You wait even longer at the adventurers guild, not taking any of the contracts t
 
 _Accept contract?_
 
-[Yes](./long1-golem/_golem.md)
+[Yes](./golem-arc/_golem.md)
 
 [No](./short2-long.md)
