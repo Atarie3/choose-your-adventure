@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^chapter] #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -9,5 +9,3 @@ You return covered head to toe in muck from the slimes, They pay you your 5 gold
 [Accept contract 2](../bear-arc/_bear.md)
 
 [Wait longer](../golem-arc/_golem.md)
-
-

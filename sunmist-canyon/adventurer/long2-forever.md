@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^chapter] #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -8,6 +8,4 @@ You end up never taking a contract, after a time you lay down your sword and pic
 
 ### Ending - Inadequate ###
 
-[Return to beginning](../../_start-here.md)
-
-
+[Return to beginning](../_start-here.md)

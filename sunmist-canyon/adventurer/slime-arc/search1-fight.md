@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^chapter] #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -11,5 +11,3 @@ Its memories flood your head, driving you mad with the realization and grief of 
 ### Ending - Remorse with no recourse ###
 
 [Return to beginning](../../_start-here.md)
-
-

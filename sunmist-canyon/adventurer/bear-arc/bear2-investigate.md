@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^chapter] #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -13,5 +13,3 @@ In the end, you were celebrated as a hero within your town and went on to advent
 ### Ending - A Hero and a Legend ###
 
 [Return to beginning](../../_start-here.md)
-
-

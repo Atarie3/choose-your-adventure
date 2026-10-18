@@ -1,4 +1,4 @@
-# Sun-mist Canyon  #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -7,4 +7,5 @@ Sensing that something isn't right, you turn back around and choose a different 
 ---
 
 [River shore](../apprentice2-river.md)
+
 [Abandoned bear cave](../apprentice3-cave.md)

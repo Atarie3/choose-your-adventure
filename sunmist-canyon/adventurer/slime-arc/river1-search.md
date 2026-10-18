@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^chapter] #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -11,4 +11,3 @@ This isn't right; they must be a doppelgänger. It must be _something_ but it ca
 [Fight 'yourself'](./search1-fight.md)
 
 [Run](./search2-run.md)
-

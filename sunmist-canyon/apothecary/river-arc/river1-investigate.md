@@ -1,4 +1,4 @@
-# Sun-mist Canyon  #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -11,4 +11,5 @@ This isn't right; they must be a doppelgänger. It must be something but it cann
 ---
 
 [Fight yourself](./investigate1-fight.md)
+
 [Run](./investigate2-run.md)

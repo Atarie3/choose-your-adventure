@@ -1,4 +1,4 @@
-# Sun-mist Canyon [^chapter] #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -11,5 +11,3 @@ _Accept contract?_
 [Yes](./short1-bear/_bear.md)
 
 [No](./short2-long.md)
-
-

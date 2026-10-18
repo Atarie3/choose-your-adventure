@@ -1,4 +1,4 @@
-# Sun-mist Canyon  #
+# Sun-mist Canyon #
 
 <sup>By <a href="https://github.com/Atarie3">Ashton Hawkinson</a> and <a href="https://github.com/joshua-nett">Joshua Nett</a></sup>
 
@@ -7,4 +7,5 @@ You head up to the mountain pass to gather herbs, there is ice and snow on the g
 ---
 
 [Continue Forward](./mountain-arc/mountain1-forward.md)
+
 [Turn around](./mountain-arc/mountain2-leave.md)
