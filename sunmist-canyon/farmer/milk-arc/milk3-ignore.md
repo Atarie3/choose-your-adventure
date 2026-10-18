@@ -7,4 +7,5 @@ You ignored the cows going missing; perhaps they went out to the pasture. Moving
 ---
 
 [Investigate further](./ignore1-further.md)
+
 [Tell your father](./milk2-father.md)

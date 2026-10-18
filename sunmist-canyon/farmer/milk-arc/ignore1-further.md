@@ -7,4 +7,5 @@ You search a wide area around the farm still finding nothing. Considering it a g
 ---
 
 [Investigate cave](./further1-cave.md)
+
 [Head home and leave it to the adventurers](./further2-home.md)
