@@ -17,8 +17,6 @@ _ending question / what do you do?_
 
 [Choice 2](./relative_path/file.md)
 
-[^chapter]: Chapter/Path name
-
 ```
 
 To see how this looks check out [this page](./_md-style-example)

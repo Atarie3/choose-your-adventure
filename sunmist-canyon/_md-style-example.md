@@ -10,5 +10,3 @@ _ending question / what do you do?_
 [Choice 1](./relative_path.md)
 
 [Choice 2](./relative_path/file.md)
-
-[^chapter]: Chapter/Path name

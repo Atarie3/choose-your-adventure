@@ -12,5 +12,3 @@ _Choose your occupation:_
 [Become apothecary](./apothecary/apprentice.md)
 
 [Become a farmer like your father is now](./farmer/milk.md)
-
-[^chapter]: Fresh beginnings
