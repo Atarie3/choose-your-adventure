@@ -9,4 +9,5 @@ Rumors at the Adventurers guild are that there is a bear south of the town that 
 ---
 
 [Track down the bear](./herbs1-bear.md)
+
 [Call it a day](./herbs2-call.md)

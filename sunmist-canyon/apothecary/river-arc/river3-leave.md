@@ -7,4 +7,5 @@ It is not safe here, you can feel it in your bones. You leave immediately and ch
 ---
 
 [Mountain pass](../apprentice1-mountain.md)
+
 [Abandoned bear cave](../apprentice3-cave.md)

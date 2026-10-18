@@ -9,5 +9,7 @@ You falter in singing after hearing sloshing in the water, must just be a fish r
 ---
 
 [Investigate](./river-arc/river1-investigate.md)
+
 [Continue gathering herbs](./river-arc/river2-herbs.md)
+
 [Leave](./river-arc/river3-leave.md)

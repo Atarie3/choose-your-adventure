@@ -7,5 +7,7 @@ You have always had an eye for spotting herbs! You go to the local alchemist and
 ---
 
 [Mountain pass](./apprentice1-mountain.md)
+
 [River shore](./apprentice2-river.md)
+
 [Abandoned bear cave](./apprentice3-cave.md)

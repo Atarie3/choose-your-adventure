@@ -11,4 +11,5 @@ Bear taken care of, you peek inside the cave. It seems oddly dark; the light see
 ---
 
 [Enter](./bear1-enter.md)
+
 [Call it a day](./herbs2-call)

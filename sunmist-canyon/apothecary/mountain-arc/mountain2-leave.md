@@ -7,4 +7,5 @@ Sensing that something isn't right, you turn back around and choose a different 
 ---
 
 [River shore](../apprentice2-river.md)
+
 [Abandoned bear cave](../apprentice3-cave.md)

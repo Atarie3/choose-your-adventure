@@ -7,4 +7,5 @@ You head up to the mountain pass to gather herbs, there is ice and snow on the g
 ---
 
 [Continue Forward](./mountain-arc/mountain1-forward.md)
+
 [Turn around](./mountain-arc/mountain2-leave.md)

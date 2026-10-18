@@ -11,4 +11,5 @@ This isn't right; they must be a doppelgänger. It must be something but it cann
 ---
 
 [Fight yourself](./investigate1-fight.md)
+
 [Run](./investigate2-run.md)
