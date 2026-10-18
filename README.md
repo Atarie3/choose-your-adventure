@@ -15,7 +15,7 @@ This framework allows you to create interactive adventures using Markdown files.
 
 ## 🌟 Example Story
 
-[Space Battles](https://github.com/fvtc/choose-your-adventure/blob/master/space-battles/_start-here.md) — A Star Wars-inspired branching adventure.
+[Space Battles](https://github.com/Atarie3/choose-your-adventure/blob/master/space-battles/_start-here.md) — A Star Wars-inspired branching adventure.
 
 ## 📁 Folder Structure
 
