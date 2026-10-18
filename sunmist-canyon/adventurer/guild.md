@@ -9,6 +9,6 @@ _Accept contract?_
 
 [Yes](./guild1-slime/_slime.md)
 
-[No](./guild2-wait.md)
+[No](./guild2-short.md)
 
 [^chapter]: First contract opportunity
