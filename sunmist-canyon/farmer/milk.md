@@ -6,6 +6,6 @@ You pick your bucket and go to milk the cows. Entering the barn, you see the cow
 
 ---
 
-[Investigate](../milk1-investigate.md)
-[Tell your father](../milk2-father.md)
-[Ignore it and go gather chicken eggs](../milk3-ignore.md)
+[Investigate](./milk-arc/milk1-investigate.md)
+[Tell your father](./milk-arc/milk2-father.md)
+[Ignore it and go gather chicken eggs](./milk-arc/milk3-ignore.md)
