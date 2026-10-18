@@ -8,4 +8,4 @@ You head to the abandoned cave and start gathering herbs.  You hear rustling beh
 
 ### ENDING - It was not abandoned. ###
 
-[Return to beginning](../../_start-here.md)
+[Return to beginning](../_start-here.md)
