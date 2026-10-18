@@ -10,4 +10,4 @@ _Accept contract?_
 
 [Yes](./golem-arc/_golem.md)
 
-[No](./short2-long.md)
+[No](./long2-forever.md)
